@@ -93,7 +93,7 @@ This demo represents ongoing independent work under limited resources, driven by
 
 The demo video shows Koji working with the real AI service. **No API keys or sensitive data are shown**.
 
-[Watch the demo video](demo_media/koji_demo_recording.mp4)
+[Watch the demo video](https://youtu.be/qUyWtEfVv48)
 
 ---
 
