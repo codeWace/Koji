@@ -1,0 +1,61 @@
+# -----------------
+# Flutter / Dart
+# -----------------
+.dart_tool/
+.packages
+.pub/
+build/
+flutter-plugins
+flutter-plugins-dependencies
+pubspec.lock
+
+# -----------------
+# IDE files
+# -----------------
+.idea/
+*.iml
+
+# -----------------
+# OS files
+# -----------------
+.DS_Store
+*.swp
+*.lock
+
+# -----------------
+# Android / iOS / macOS / Linux / Windows
+# -----------------
+android/app/debug/
+android/app/profile/
+android/app/release/
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+macos/Flutter/Flutter.podspec
+macos/Pods/
+linux/flutter/
+windows/flutter/
+
+# -----------------
+# Assets
+# -----------------
+assets/
+
+# -----------------
+# Backend folders
+# -----------------
+backend/
+
+# -----------------
+# Services in lib/services
+# Only include the demo & interface AI services, ignore real AI service
+# -----------------
+lib/services/*
+!lib/services/demo_ai_service.dart
+!lib/services/ai_service.dart
+
+# -----------------
+# Optional: ignore any other sensitive or local files
+# -----------------
+lib/config/api_keys.dart  
