@@ -81,7 +81,7 @@ Koji is more than just code - it represents my personal journey in learning, per
 I started this project as a solo developer with limited resources, driven by a passion for computer science, education, and human-centered AI.
 
 From teaching myself Flutter UI, animations, and state management, to integrating AI abstractions without exposing sensitive keys, every step was a lesson in problem-solving under constraints. 
-My motivation came not only from curiosity but also from the support of my family and mentors, who encouraged me to pursue ambitious ideas even when tools and resources were limited.
+My motivation came not only from curiosity but also from the support of my family, who encouraged me to pursue ambitious ideas even when tools and resources were limited.
 
 Through Koji, I learned how to design software that balances usability, security, and scalability. 
 This demo reflects both the technical skills I’ve developed and the persistence and creativity required to tackle complex challenges independently.
