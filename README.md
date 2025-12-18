@@ -62,6 +62,33 @@ It is **not** intended for commercial use or redistribution.
 
 ---
 
+## 🗓️ Koji Development Timeline
+Month/Year	  Milestone / Achievement
+Jan 2025	    Conceptualized Koji: an AI assistant for students; began researching Flutter and AI integration.
+Feb 2025	    Learned Flutter basics and built the first simple chat interface.
+Mar–Apr 2025	Implemented state management, local data handling, and demo AI service abstraction.
+May 2025	    Added animations, UI/UX improvements, and chat bubble design; tested demo interactions.
+Jun 2025	    Integrated speech-to-text input; refined message handling and local storage.
+Jul–Nov 2025	Continued polishing UI, top bar animations, theming, and interaction flows.
+Dec 2025	    Recorded demo video showcasing Koji’s capabilities with the real AI service and published this public demo repository.
+
+---
+
+## 🎓 My Journey Behind Koji
+
+Koji is more than just code — it represents my personal journey in learning, perseverance, and innovation. 
+I started this project as a solo developer with limited resources, driven by a passion for computer science, education, and human-centered AI.
+
+From teaching myself Flutter UI, animations, and state management, to integrating AI abstractions without exposing sensitive keys, every step was a lesson in problem-solving under constraints. 
+My motivation came not only from curiosity but also from the support of my family and mentors, who encouraged me to pursue ambitious ideas even when tools and resources were limited.
+
+Through Koji, I learned how to design software that balances usability, security, and scalability. 
+This demo reflects both the technical skills I’ve developed and the persistence and creativity required to tackle complex challenges independently.
+
+I hope this repository demonstrates not just an application, but the journey of growth, experimentation, and learning that brought it to life. 
+
+---
+
 ## 📜 License
 
 **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 (CC BY-NC-ND 4.0)**
@@ -105,8 +132,6 @@ Koji is under active development. Future iterations will include:
 * Personalized learning memory
 * Accessibility-first features
 * Scalable backend services
-
-These components are maintained in private repositories.
 
 ---
 
