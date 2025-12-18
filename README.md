@@ -1,6 +1,6 @@
 # Koji 🌱 (Demo Repository)
 
-> **Academic Demo Build — Public Repository**
+> **Academic Demo Build - Public Repository**
 
 Koji is an AI-powered educational assistant designed to support students with learning, organization, and curiosity-driven exploration. This repository represents the **frontend architecture, UI/UX design, and application logic** of Koji, shared publicly **for university evaluation purposes**.
 
@@ -63,20 +63,21 @@ It is **not** intended for commercial use or redistribution.
 ---
 
 ## 🗓️ Koji Development Timeline
-Month/Year	  Milestone / Achievement
-Jan 2025	    Conceptualized Koji: an AI assistant for students; began researching Flutter and AI integration.
-Feb 2025	    Learned Flutter basics and built the first simple chat interface.
-Mar–Apr 2025	Implemented state management, local data handling, and demo AI service abstraction.
-May 2025	    Added animations, UI/UX improvements, and chat bubble design; tested demo interactions.
-Jun 2025	    Integrated speech-to-text input; refined message handling and local storage.
-Jul–Nov 2025	Continued polishing UI, top bar animations, theming, and interaction flows.
-Dec 2025	    Recorded demo video showcasing Koji’s capabilities with the real AI service and published this public demo repository.
+| Month/Year | Milestone / Achievement |
+|------------|------------------------|
+| Jan 2025   | Conceptualized Koji: an AI assistant for students; began researching Flutter and AI integration. |
+| Feb 2025   | Learned Flutter basics and built the first simple chat interface. |
+| Mar–Apr 2025 | Implemented state management, local data handling, and demo AI service abstraction. |
+| May 2025   | Added animations, UI/UX improvements, and chat bubble design; tested demo interactions. |
+| Jun 2025   | Integrated speech-to-text input; refined message handling and local storage. |
+| Jul–Nov 2025 | Continued polishing UI, top bar animations, theming, and interaction flows. |
+| Dec 2025   | Recorded demo video showcasing Koji’s capabilities with the real AI service and published this public demo repository. |
 
 ---
 
 ## 🎓 My Journey Behind Koji
 
-Koji is more than just code — it represents my personal journey in learning, perseverance, and innovation. 
+Koji is more than just code - it represents my personal journey in learning, perseverance, and innovation. 
 I started this project as a solo developer with limited resources, driven by a passion for computer science, education, and human-centered AI.
 
 From teaching myself Flutter UI, animations, and state management, to integrating AI abstractions without exposing sensitive keys, every step was a lesson in problem-solving under constraints. 
@@ -135,4 +136,3 @@ Koji is under active development. Future iterations will include:
 
 ---
 
-> *“Not everything valuable is visible — but everything here is intentional.”*
