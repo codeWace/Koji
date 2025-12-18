@@ -1,6 +1,6 @@
 # Koji 🌱 (Demo Repository)
-> Started: January 2025
-> Status: Working demo / ongoing project
+> - Started: January 2025
+> - Status: Working demo / ongoing project
 
 > **Academic Demo Build - Public Repository**
 
