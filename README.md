@@ -4,7 +4,8 @@
 
 > **Academic Demo Build - Public Repository**
 
-Koji is an AI-powered educational assistant designed to support students with learning, organization, and curiosity-driven exploration. This repository represents the **frontend architecture, UI/UX design, and application logic** of Koji, shared publicly **for university evaluation purposes**.
+Koji is an AI-powered educational assistant designed to support students with learning, organization, and curiosity-driven exploration. This repository represents the **frontend architecture, UI/UX design, and application logic** of Koji. This repository is intended for learning and demonstration purposes.
+
 
 Certain components are intentionally excluded to protect intellectual property and future development plans.
 
