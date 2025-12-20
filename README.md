@@ -107,7 +107,7 @@ You may **not**:
 * Modify or redistribute it
 * Claim it as your own work
 
-© 2025 Koji — Demo Build
+© 2025 Koji - Demo Build
 
 ---
 
